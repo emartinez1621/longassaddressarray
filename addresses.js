@@ -8,5 +8,6 @@ var validAddresses = '{' +
     '"7" : [{"abbrev" : "CT", "zip" : "06088", "city" : "East Windsor", "address" : "309 Scantic Rd"}, {"abbrev" : "CT", "zip" : "06237", "city" : "Columbia", "address" : "42 Hennequin Rd"}, {"abbrev" : "CT", "zip" : "06424", "city" : "East Hampton", "address" : "22 Arden Dr"}]' +
     '"8" : [{"abbrev" : "DC", "zip" : "20011", "city" : "Washington", "address" : "425 Kennedy St NE"}, {"abbrev" : "DC", "zip" : "20006", "city" : "Washington", "address" : "2030 F st NW APT 801"}, {"abbrev" : "DC", "zip" : "20024", "city" : "Washington", "address" : "800 4th St SW APT S603"}]' +
     '"9" : [{"abbrev" : "DE", "zip" : "19956", "city" : "Laurel", "address" : "101 Maple St"}, {"abbrev" : "DE", "zip" : "19736", "city" : "Yorklyn", "address" : "2255 Creek Rd"}, {"abbrev" : "DE", "zip" : "19930", "city" : "Bethany Beach", "address" : "420 Collins St"}]' +
+    '"10" : [{"abbrev" : "FL", "zip" : "32003", "city" : "Orange Park", "address" : "2182 Trailwood Dr"}, {"abbrev" : "FL", "zip" : "32059", "city" : "Lee", "address" : "7236 SE Farm Rd"}, {"abbrev" : "FL", "zip" : "32082", "city" : "Jacksonville", "address" : "289 Roscoe Blvd"}]' +
     '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
 '}'
