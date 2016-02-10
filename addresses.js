@@ -5,5 +5,6 @@ var validAddresses = '{' +
     '"4" : [{"abbrev" : "AZ", "zip" : "85248", "city" : "Chandler", "address" : "1515 W Honeysuckle Ln"}, {"abbrev" : "AZ", "zip" : "85310", "city" : "Glendale", "address" : "23833 N 39th Ln"}, {"abbrev" : "AZ", "zip" : "85282", "city" : "Tempe", "address" : "2019 S Granada Dr"}]' +
     '"5" : [{"abbrev" : "CA", "zip" : "93260", "city" : "Posey", "address" : "43228 Oak Dr."}, {"abbrev" : "CA", "zip" : "90210", "city" : "Beverly Hills", "address" : "1270 Shadow Hill Way"}, {"abbrev" : "CA", "zip" : "95206", "city" : "Stockton", "address" : "1708 Ralph Ave"}]' +
     '"6" : [{"abbrev" : "CO", "zip" : "80446", "city" : "Granby", "address" : "404 New Church Ave"}, {"abbrev" : "CO", "zip" : "80439", "city" : "Silverthorne", "address" : "348 Jade Rd"}, {"abbrev" : "CO", "zip" : "80701", "city" : "Fort Morgan", "address" : "22221 County Road A"}]' +
+    '"7" : [{"abbrev" : "CT", "zip" : "06088", "city" : "East Windsor", "address" : "309 Scantic Rd"}, {"abbrev" : "CT", "zip" : "06237", "city" : "Columbia", "address" : "42 Hennequin Rd"}, {"abbrev" : "CT", "zip" : "06424", "city" : "East Hampton", "address" : "22 Arden Dr"}]' +
     '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
 '}'
