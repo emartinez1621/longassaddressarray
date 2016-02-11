@@ -12,5 +12,6 @@ var validAddresses = '{' +
     '"11" : [{"abbrev" : "GA", "zip" : "31512", "city" : "Ambrose", "address" : "774 Squire Rd"}, {"abbrev" : "GA", "zip" : "39834", "city" : "Climax", "address" : "4782 Vada Rd"}, {"abbrev" : "GA", "zip" : 30669"", "city" : "Woodville", "address" : "1071 Peachtree Ave W"}]' +
     '"12" : [{"abbrev" : "HI", "zip" : "96704", "city" : "Ocean View", "address" : "92-9193 Lehua Ln"}, {"abbrev" : "HI", "zip" : "96725", "city" : "Holualoa", "address" : "76-5989 Mamalahoa Hwy"}, {"abbrev" : "HI", "zip" : "96785", "city" : "Volcano", "address" : "19-4021 Kilauea Rd"}]' +
     '"13" : [{"abbrev" : "IA", "zip" : "50134", "city" : "Kelley", "address" : "54316 276th St"}, {"abbrev" : "IA", "zip" : "50230", "city" : "Radcliffe", "address" : "29393 Co Hwy S27"}, {"abbrev" : "IA", "zip" : "50310", "city" : "Des Moines", "address" : "2716 46th St"}]' +
+    '"14" : [{"abbrev" : "ID", "zip" : "83201", "city" : "Pocatello", "address" : "3021 Shelly Pl"}, {"abbrev" : "ID", "zip" : "83246", "city" : "Lava Hot Springs", "address" : "6785 S Pheasant Dr"}, {"abbrev" : "ID", "zip" : "93440", "city" : "Rexburg", "address" : "913 S 2400 W"}]' +
     '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
 '}'
