@@ -10,5 +10,5 @@ var validAddresses = '{' +
     '"9" : [{"abbrev" : "DE", "zip" : "19956", "city" : "Laurel", "address" : "101 Maple St"}, {"abbrev" : "DE", "zip" : "19736", "city" : "Yorklyn", "address" : "2255 Creek Rd"}, {"abbrev" : "DE", "zip" : "19930", "city" : "Bethany Beach", "address" : "420 Collins St"}]' +
     '"10" : [{"abbrev" : "FL", "zip" : "32003", "city" : "Orange Park", "address" : "2182 Trailwood Dr"}, {"abbrev" : "FL", "zip" : "32059", "city" : "Lee", "address" : "7236 SE Farm Rd"}, {"abbrev" : "FL", "zip" : "32082", "city" : "Jacksonville", "address" : "289 Roscoe Blvd"}]' +
     '"11" : [{"abbrev" : "GA", "zip" : "31512", "city" : "Ambrose", "address" : "774 Squire Rd"}, {"abbrev" : "GA", "zip" : "39834", "city" : "Climax", "address" : "4782 Vada Rd"}, {"abbrev" : "GA", "zip" : 30669"", "city" : "Woodville", "address" : "1071 Peachtree Ave W"}]' +
-    '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"12" : [{"abbrev" : "HI", "zip" : "96704", "city" : "Ocean View", "address" : "92-9193 Lehua Ln"}, {"abbrev" : "HI", "zip" : "96725", "city" : "Holualoa", "address" : "76-5989 Mamalahoa Hwy"}, {"abbrev" : "HI", "zip" : "96785", "city" : "Volcano", "address" : "19-4021 Kilauea Rd"}]' +
 '}'
