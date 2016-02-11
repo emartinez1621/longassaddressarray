@@ -14,5 +14,6 @@ var validAddresses = '{' +
     '"13" : [{"abbrev" : "IA", "zip" : "50134", "city" : "Kelley", "address" : "54316 276th St"}, {"abbrev" : "IA", "zip" : "50230", "city" : "Radcliffe", "address" : "29393 Co Hwy S27"}, {"abbrev" : "IA", "zip" : "50310", "city" : "Des Moines", "address" : "2716 46th St"}]' +
     '"14" : [{"abbrev" : "ID", "zip" : "83201", "city" : "Pocatello", "address" : "3021 Shelly Pl"}, {"abbrev" : "ID", "zip" : "83246", "city" : "Lava Hot Springs", "address" : "6785 S Pheasant Dr"}, {"abbrev" : "ID", "zip" : "93440", "city" : "Rexburg", "address" : "913 S 2400 W"}]' +
     '"15" : [{"abbrev" : "IL", "zip" : "60010", "city" : "Hoffman Estates", "address" : "5105 Chambers Dr"}, {"abbrev" : "IL", "zip" : "60064", "city" : "North Chicago", "address" : "2002 16th St"}, {"abbrev" : "IL", "zip" : "60112", "city" : "Cortland", "address" : "85 E Oxford Close"}]' +
-    '"16" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"16" : [{"abbrev" : "IN", "zip" : "46140", "city" : "Greenfield", "address" : "762 Berry St"}, {"abbrev" : "IN", "zip" : "46201", "city" : "Indianapolis", "address" : "442 N Denny St"}, {"abbrev" : "IN", "zip" : "46327", "city" : "Hammond", "address" : "4042 Grover Ave"}]' +
+    '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
 '}'
