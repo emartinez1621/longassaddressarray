@@ -18,5 +18,6 @@ var validAddresses = '{' +
     '"17" : [{"abbrev" : "KS", "zip" : "66006", "city" : "Baldwin", "address" : "402 Fremont St"}, {"abbrev" : "KS", "zip" : "66101", "city" : "Kansas City", "address" : "843 Ivandale St"}, {"abbrev" : "KS", "zip" : "66945", "city" : "Hanover", "address" : "111 S Hanover St"}]' +
     '"18" : [{"abbrev" : "KY", "zip" : "40071", "city" : "Taylorsville", "address" : "896 Fiddler Ln"}, {"abbrev" : "KY", "zip" : "40299", "city" : "Jefferson", "address" : "10301 Grand Ave"}, {"abbrev" : "KY", "zip" : "40371", "city" : "Salt Lick", "address" : "67 Railroad St"}]' +
     '"19" : [{"abbrev" : "LA", "zip" : "70118", "city" : "New Orleans", "address" : "2632 Calhoun St"}, {"abbrev" : "LA", "zip" : "70437", "city" : "Folsom", "address" : "77050 Robinson Rd"}, {"abbrev" : "LA", "zip" : "70526", "city" : "Crowley", "address" : "814 N Avenue G"}]' +
+    '"20" : [{"abbrev" : "MA", "zip" : "01005", "city" : "Barre", "address" : "400 West St"}, {"abbrev" : "MA", "zip" : "01431", "city" : "Ashby", "address" : "389 County Rd"}, {"abbrev" : "MA", "zip" : "01612", "city" : "Paxton", "address" : "349 Pleasant St"}]' +
     '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
 '}'
