@@ -16,5 +16,6 @@ var validAddresses = '{' +
     '"15" : [{"abbrev" : "IL", "zip" : "60010", "city" : "Hoffman Estates", "address" : "5105 Chambers Dr"}, {"abbrev" : "IL", "zip" : "60064", "city" : "North Chicago", "address" : "2002 16th St"}, {"abbrev" : "IL", "zip" : "60112", "city" : "Cortland", "address" : "85 E Oxford Close"}]' +
     '"16" : [{"abbrev" : "IN", "zip" : "46140", "city" : "Greenfield", "address" : "762 Berry St"}, {"abbrev" : "IN", "zip" : "46201", "city" : "Indianapolis", "address" : "442 N Denny St"}, {"abbrev" : "IN", "zip" : "46327", "city" : "Hammond", "address" : "4042 Grover Ave"}]' +
     '"17" : [{"abbrev" : "KS", "zip" : "66006", "city" : "Baldwin", "address" : "402 Fremont St"}, {"abbrev" : "KS", "zip" : "66101", "city" : "Kansas City", "address" : "843 Ivandale St"}, {"abbrev" : "KS", "zip" : "66945", "city" : "Hanover", "address" : "111 S Hanover St"}]' +
+    '"18" : [{"abbrev" : "KY", "zip" : "40071", "city" : "Taylorsville", "address" : "896 Fiddler Ln"}, {"abbrev" : "KY", "zip" : "40299", "city" : "Jefferson", "address" : "10301 Grand Ave"}, {"abbrev" : "KY", "zip" : "40371", "city" : "Salt Lick", "address" : "67 Railroad St"}]' +
     '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
 '}'
