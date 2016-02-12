@@ -19,5 +19,6 @@ var validAddresses = '{' +
     '"18" : [{"abbrev" : "KY", "zip" : "40071", "city" : "Taylorsville", "address" : "896 Fiddler Ln"}, {"abbrev" : "KY", "zip" : "40299", "city" : "Jefferson", "address" : "10301 Grand Ave"}, {"abbrev" : "KY", "zip" : "40371", "city" : "Salt Lick", "address" : "67 Railroad St"}]' +
     '"19" : [{"abbrev" : "LA", "zip" : "70118", "city" : "New Orleans", "address" : "2632 Calhoun St"}, {"abbrev" : "LA", "zip" : "70437", "city" : "Folsom", "address" : "77050 Robinson Rd"}, {"abbrev" : "LA", "zip" : "70526", "city" : "Crowley", "address" : "814 N Avenue G"}]' +
     '"20" : [{"abbrev" : "MA", "zip" : "01005", "city" : "Barre", "address" : "400 West St"}, {"abbrev" : "MA", "zip" : "01431", "city" : "Ashby", "address" : "389 County Rd"}, {"abbrev" : "MA", "zip" : "01612", "city" : "Paxton", "address" : "349 Pleasant St"}]' +
+    '"21" : [{"abbrev" : "MD", "zip" : "20639", "city" : "Huntington", "address" : "3355 Bayside Rd"}, {"abbrev" : "MD", "zip" : "20817", "city" : "Bethesda", "address" : "6007 Greentree Rd"}, {"abbrev" : "MD", "zip" : "20815", "city" : "Chevy Chase", "address" : "3536 Hamlet Pl"}]' +
     '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
 '}'
