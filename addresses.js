@@ -20,5 +20,35 @@ var validAddresses = '{' +
     '"19" : [{"abbrev" : "LA", "zip" : "70118", "city" : "New Orleans", "address" : "2632 Calhoun St"}, {"abbrev" : "LA", "zip" : "70437", "city" : "Folsom", "address" : "77050 Robinson Rd"}, {"abbrev" : "LA", "zip" : "70526", "city" : "Crowley", "address" : "814 N Avenue G"}]' +
     '"20" : [{"abbrev" : "MA", "zip" : "01005", "city" : "Barre", "address" : "400 West St"}, {"abbrev" : "MA", "zip" : "01431", "city" : "Ashby", "address" : "389 County Rd"}, {"abbrev" : "MA", "zip" : "01612", "city" : "Paxton", "address" : "349 Pleasant St"}]' +
     '"21" : [{"abbrev" : "MD", "zip" : "20639", "city" : "Huntington", "address" : "3355 Bayside Rd"}, {"abbrev" : "MD", "zip" : "20817", "city" : "Bethesda", "address" : "6007 Greentree Rd"}, {"abbrev" : "MD", "zip" : "20815", "city" : "Chevy Chase", "address" : "3536 Hamlet Pl"}]' +
-    '"#" : [{"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "#", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"22" : [{"abbrev" : "ME", "zip" : "04020", "city" : "Cornish", "address" : "1704 North Rd"}, {"abbrev" : "ME", "zip" : "04347", "city" : "Halowell", "address" : "3 Second St"}, {"abbrev" : "ME", "zip" : "04681", "city" : "Stonington ", "address" : "24 Minister Field Rd"}]' +
+    '"23" : [{"abbrev" : "MI", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MI", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MI", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"24" : [{"abbrev" : "MN", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MN", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MN", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"25" : [{"abbrev" : "MO", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MO", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MO", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"26" : [{"abbrev" : "MS", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MS", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MS", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"27" : [{"abbrev" : "MT", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MT", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "MT", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"28" : [{"abbrev" : "NC", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NC", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NC", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"29" : [{"abbrev" : "ND", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "ND", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "ND", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"30" : [{"abbrev" : "NE", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NE", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NE", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"31" : [{"abbrev" : "NH", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NH", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NH", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"32" : [{"abbrev" : "NJ", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NJ", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NJ", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"33" : [{"abbrev" : "NM", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NM", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NM", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"24" : [{"abbrev" : "NV", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NV", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NV", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"25" : [{"abbrev" : "NY", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NY", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "NY", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"26" : [{"abbrev" : "OH", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "OH", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "OH", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"27" : [{"abbrev" : "OK", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "OK", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "OK", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"28" : [{"abbrev" : "OR", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "OR", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "OR", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"29" : [{"abbrev" : "PA", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "PA", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "PA", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"30" : [{"abbrev" : "RI", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "RI", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "RI", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"31" : [{"abbrev" : "SC", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "SC", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "SC", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"32" : [{"abbrev" : "SD", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "SD", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "SD", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"33" : [{"abbrev" : "TN", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "TN", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "TN", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"34" : [{"abbrev" : "TX", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "TX", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "TX", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"35" : [{"abbrev" : "UT", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "UT", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "UT", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"36" : [{"abbrev" : "VA", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "VA", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "VA", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"37" : [{"abbrev" : "VT", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "VT", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "VT", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"38" : [{"abbrev" : "WA", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "WA", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "WA", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"39" : [{"abbrev" : "WI", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "WI", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "WI", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"40" : [{"abbrev" : "WV", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "WV", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "WV", "zip" : "#", "city" : "#", "address" : "#"}]' +
+    '"41" : [{"abbrev" : "WY", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "WY", "zip" : "#", "city" : "#", "address" : "#"}, {"abbrev" : "WY", "zip" : "#", "city" : "#", "address" : "#"}]' +
+
 '}'
